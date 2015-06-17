@@ -1,0 +1,1 @@
+This project is and 'Hello World' application on Android as tutorial of GDG Kayseri's first workshop.
